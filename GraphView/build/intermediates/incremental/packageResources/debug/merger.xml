@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\D\Desktop\GH\GraphView\src\main\res"><file path="C:\Users\D\Desktop\GH\GraphView\src\main\res\values\attr.xml" qualifiers=""><declare-styleable name="GraphViewXML">
+        <attr format="string" name="seriesData"/>
+        <attr format="string" name="seriesType"/>
+        <attr format="string" name="seriesTitle"/>
+        <attr name="android:title"/>
+        <attr format="color" name="seriesColor"/>
+    </declare-styleable></file></source><source path="C:\Users\D\Desktop\GH\GraphView\build\generated\res\rs\debug"/><source path="C:\Users\D\Desktop\GH\GraphView\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\D\Desktop\GH\GraphView\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="GraphViewXML"><attr format="string" name="seriesData"/><attr format="string" name="seriesType"/><attr format="string" name="seriesTitle"/><attr name="android:title"/><attr format="color" name="seriesColor"/></declare-styleable></configuration></mergedItems></merger>
