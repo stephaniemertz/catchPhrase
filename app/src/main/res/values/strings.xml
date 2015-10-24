@@ -74,7 +74,7 @@
     <string name="login1">Login</string>
     <string name="register1">Register</string>
     <string name="play">PLAY</string>
-    <string name="LoginMessage">Log in to place your name to your high scores and view other statistics!</string>
+    <string name="LoginMessage">Please create an account</string>
     <string name="confimpassword">Confirm New Password</string>
     <string name="Updatesubmit">New Button</string>
     <string name="submit1">SUBMIT</string>

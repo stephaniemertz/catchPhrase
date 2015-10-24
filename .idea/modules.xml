@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GH.iml" filepath="$PROJECT_DIR$/GH.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catchPhrase.iml" filepath="$PROJECT_DIR$/catchPhrase.iml" />
     </modules>
   </component>
 </project>
